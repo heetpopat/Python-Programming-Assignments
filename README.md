@@ -29,3 +29,25 @@ Contains 10 Python programs.
 | 8 | Write a program to explain mutable and immutable objects in python. |
 | 9 | Write a program to define and use user-defined Functions with different types of arguments. |
 | 10 | Write a program to demonstrate recursion using factorial or Fibonacci series |
+
+
+## Unit 2 — Control Structures, Iteration and Intermediate Python Concepts
+
+This unit contains 10 Python practical programs covering conditional statements, loops, control-flow statements, comprehensions, variable scope, iterators, and generators.
+
+| No. | Practical Program |
+|---:|---|
+| 1 | Conditional statements: if, if-else, and if-elif-else |
+| 2 | Check positive, negative, or zero using nested conditions |
+| 3 | Multiplication table using a for loop |
+| 4 | Sum of digits using a while loop |
+| 5 | Demonstrate break, continue, and pass |
+| 6 | Iterate over lists, strings, and dictionaries |
+| 7 | List, dictionary, and set comprehensions |
+| 8 | Local, global, and nonlocal variable scope |
+| 9 | Iterators and iterables |
+| 10 | Generator functions and the yield keyword |
+
+**Folder:** `Unit-2/`
+
+**Language:** Python 3
