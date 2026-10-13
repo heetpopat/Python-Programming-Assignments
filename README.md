@@ -39,8 +39,8 @@ No.	Practical Program
 9	Iterators and iterables.
 10	Generator functions and the yield keyword.
 
-Folder: Unit-2/
-Language: Python 3
+📂 Folder: Unit-2/
+💻 Language: Python 3
 
 📙 Unit 3 — Modules, Packages, Standard Libraries and Regular Expressions
 
@@ -58,8 +58,8 @@ No.	Practical Program
 9	Write a program to use re module functions such as match(), search(), and findall().
 10	Write a program to extract specific information from a text file using regular expressions.
 
-Folder: Unit-3/
-Language: Python 3
+📂 Folder: Unit-3/
+💻 Language: Python 3
 
 📕 Unit 4 — Object-Oriented Programming and File Handling Object-Oriented Programming in Python
 
@@ -71,12 +71,18 @@ Programs for this unit will be added here.
 
 🛠️ Requirements
 Python 3.x
-Any Python IDE or code editor (VS Code, PyCharm, IDLE, etc.)
+Any Python IDE or code editor:
+Visual Studio Code
+PyCharm
+IDLE
 ▶️ How to Run the Programs
 Clone or download this repository.
 Open the project folder in your preferred code editor.
 Navigate to the required unit folder.
 Run the desired Python file.
+
+Run a Python program using the terminal:
+
 python filename.py
 
 🎯 Objectives
@@ -85,6 +91,8 @@ Understand control structures, data structures, and functions.
 Explore Python modules and standard libraries.
 Practice file handling and regular expressions.
 Develop problem-solving and programming skills.
-
+🐍 Technologies Used
 Language: Python 3
 Repository: Python Programming Assignments
+
+⭐ If you find this repository helpful, consider giving it a star!
