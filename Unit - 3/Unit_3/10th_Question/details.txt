@@ -1,0 +1,10 @@
+Name: Rahul Patel
+Email: rahul@gmail.com
+Phone: 9876543210
+Date: 12-05-2026
+
+Name: Amit Shah
+Email: amit@yahoo.com
+Phone: 9123456780
+Date: 15-06-2026
+Then run this Python program:
