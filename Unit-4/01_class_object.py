@@ -3,9 +3,14 @@
 class Student:
     def display(self):
         print("Hello, I am a student.")
+        print("Welcome to Python Programming.")
 
-# Creating an object
+# Creating an object of Student class
 s1 = Student()
 
-# Calling the method
+# Calling the method using object
 s1.display()
+
+Output:
+Hello, I am a student.
+Welcome to Python Programming.
